@@ -21,8 +21,8 @@ function Home() {
             <RecentAddedBooks/>
             <PopularBooks/>
             <ReservedBooks/>
-            <News/>
-            <PhotoGallery/>
+            {/* <News/> */}
+            {/* <PhotoGallery/> */}
             <Footer/>
         </div>
     )
