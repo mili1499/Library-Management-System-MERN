@@ -35,7 +35,7 @@ function Footer() {
                 </div>
             </div>
             <div className='copyright-details'>
-                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed by Aditya Gautam & Suresh Rajbanshi</span></p>
+                <p className='footer-copyright'>&#169; 2023 copyright all right reserved<br /><span>Designed by Pranjali preysi</span></p>
             </div>
         </div>
     )
